@@ -1,3 +1,5 @@
+![simple world clock icon](https://user-images.githubusercontent.com/15567340/36277424-0c73f866-12bb-11e8-85ff-397befabac6a.png)
+
 # Android-World-Clock
 A World-clock using android
 
